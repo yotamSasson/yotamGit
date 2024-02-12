@@ -1,0 +1,12 @@
+#ignore includes
+*
+#ignore excludes
+!*.cpp
+!*.c
+!*.h
+!*.mk
+!.gitignore
+!*.hpp
+
+# ...even if they are in subdirectories
+!*/
